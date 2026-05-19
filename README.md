@@ -21,11 +21,6 @@ B-Tech CSE student at Babu Banarasi Das University <br>Learning Web Development 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ujjawal-Yadav29&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=Ujjawal-Yadav29&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PayPal.Me @kingujjwal) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
